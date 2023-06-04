@@ -1,4 +1,4 @@
-# DinoAI
+# DinoAI is based on: https://github.com/Sentdex/pygta5
 
 If you are here just for testing you can use my Dino.model. I've trained Dino for only 5 games but it's enough to make relatively high scores.
 
